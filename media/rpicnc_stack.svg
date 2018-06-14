@@ -16,10 +16,10 @@
    height="390.52353"
    viewBox="0 0 424.81912 390.52353"
    sodipodi:docname="rpicnc_stack.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><metadata
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath20"><path
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1016"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.1833333"
-     inkscape:cx="-82.340193"
-     inkscape:cy="204.08645"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.673486"
+     inkscape:cx="93.881149"
+     inkscape:cy="222.46999"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="g10"
      fit-margin-top="0"
@@ -113,13 +113,14 @@
          id="g58"
          transform="translate(45.304462,411.9644)"><g
            id="g60"><text
-             transform="translate(18.047897,22.474173)"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text64"><tspan
-               x="0 11.12 20.719999 29.040001 39.007999 48.976002 58.495998 65.311996 72.127998 81.584 87.199997 96.848 101.232 106.848 116.496 126.016 132.832 137.216 147.18401 157.29601 166.81599 173.632 183.23199 187.616 195.936 201.744 207.36 219.67999 233.15199 244.08 249.888 255.504 267.90399 277.552 284.272"
-               y="0"
-               sodipodi:role="line"
-               id="tspan62">Raspberry Pi Peripherals, DMA, GPIO</tspan></text>
+   transform="translate(18.047897,22.474173)"
+   style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text64"><tspan
+     x="0 11.12 20.719999 29.040001 39.007999 48.976002 58.495998 65.311996 72.127998 81.584 87.199997 96.848 101.232 106.848 116.496 126.016 132.832 137.216 147.18401 157.29601 166.81599 173.632 183.23199 187.616 195.936 201.744 207.36 219.67999 233.15199 244.08 249.888 255.504 267.90399 277.552 284.272"
+     y="0"
+     sodipodi:role="line"
+     id="tspan62">Raspberry Pi Peripherals, DMA, GPIO</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.0019685,0,0,-0.0019685,13.697677,448.44452)"
        id="g68"><g
@@ -137,13 +138,14 @@
          id="g78"
          transform="translate(45.304462,344.1851)"><g
            id="g80"><text
-             transform="translate(63.454147,22.474173)"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text84"><tspan
-               x="0 9.6479998 14.032 26.431999 36.080002 42.799999 55.391998 61.007999 69.903999 74.288002 84.255997 91.071999 100.672 107.488 116.944 122.56 129.82401 145.37601 155.07201 165.03999 169.424 175.03999 179.424 188.944 198.912"
-               y="0"
-               sodipodi:role="line"
-               id="tspan82">PiGPIO Library (modified)</tspan></text>
+   transform="translate(63.454147,22.474173)"
+   style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text84"><tspan
+     x="0 9.6479998 14.032 26.431999 36.080002 42.799999 55.391998 61.007999 69.903999 74.288002 84.255997 91.071999 100.672 107.488 116.944 122.56 129.82401 145.37601 155.07201 165.03999 169.424 175.03999 179.424 188.944 198.912"
+     y="0"
+     sodipodi:role="line"
+     id="tspan82">PiGPIO Library (modified)</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.0019685,0,0,-0.0019685,13.697677,448.44452)"
        id="g88"><g
@@ -161,13 +163,14 @@
          id="g98"
          transform="translate(45.304462,208.62543)"><g
            id="g100"><text
-             transform="translate(22.034882,23.534172)"
-             style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text104"><tspan
-               x="0 14.690666 26.487999 34.439999 40.991997 53.965332 65.221329 70.335999 78.810661 91.839996 105.80267 118.83199 125.384 130.49866 135.61333 147.24266 155.19466 166.39465 174.34666 185.37866 192.15466 198.70667 210.504 215.61865 227.24799 239.04532 245.59732 250.71199 261.81866 272.85065 283.95734"
-               y="0"
-               sodipodi:role="line"
-               id="tspan102">Our RPi-CNC library, high level</tspan></text>
+   transform="translate(22.034882,23.534172)"
+   style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text104"><tspan
+     x="0 14.690666 26.487999 34.439999 40.991997 53.965332 65.221329 70.335999 78.810661 91.839996 105.80267 118.83199 125.384 130.49866 135.61333 147.24266 155.19466 166.39465 174.34666 185.37866 192.15466 198.70667 210.504 215.61865 227.24799 239.04532 245.59732 250.71199 261.81866 272.85065 283.95734"
+     y="0"
+     sodipodi:role="line"
+     id="tspan102">Our RPi-CNC library, high level</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.0019685,0,0,-0.0019685,13.697677,448.44452)"
        id="g108"><g
@@ -222,39 +225,42 @@
          id="g154"
          transform="translate(225.7559,378.0761)"><g
            id="g156"><text
-             transform="translate(9,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text160"><tspan
-               x="0 10.266666 21.493332 30.599998 35.279999 43.586666 47.239998 55.32 62.25333 70.133331 77.066666 81.906662 86.586662 96.919998 104.96 110.56 121.05333 125.73333 136.64 142.31999 145.97333 151.22667 159.15999"
-               y="0"
-               sodipodi:role="line"
-               id="tspan158">DMA blocks, GPIO writes</tspan></text>
+   transform="translate(9,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text160"><tspan
+     x="0 10.266666 21.493332 30.599998 35.279999 43.586666 47.239998 55.32 62.25333 70.133331 77.066666 81.906662 86.586662 96.919998 104.96 110.56 121.05333 125.73333 136.64 142.31999 145.97333 151.22667 159.15999"
+     y="0"
+     sodipodi:role="line"
+     id="tspan158">DMA blocks, GPIO writes</tspan></text>
+
 </g></g></g><g
        id="g172"
        transform="matrix(0.7499985,0,0,-0.7499985,13.697677,448.44452)"><g
          id="g174"
          transform="translate(225.75592,310.2966)"><g
            id="g176"><text
-             transform="translate(9,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text180"><tspan
-               x="0 9.1066666 17.146666 22.746666 27.426666 34.360001 42.360001 46.013332 49.666664 56.599998 61.439999 66.119995 79.293335 87.293335 95.173332 103.10667 107.78667 115.86666 121.54666 134.50667"
-               y="0"
-               sodipodi:role="line"
-               id="tspan178">API calls, Waveforms</tspan></text>
+   transform="translate(9,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text180"><tspan
+     x="0 9.1066666 17.146666 22.746666 27.426666 34.360001 42.360001 46.013332 49.666664 56.599998 61.439999 66.119995 79.293335 87.293335 95.173332 103.10667 107.78667 115.86666 121.54666 134.50667"
+     y="0"
+     sodipodi:role="line"
+     id="tspan178">API calls, Waveforms</tspan></text>
+
 </g></g></g><g
        id="g192"
        transform="matrix(0.7499985,0,0,-0.7499985,13.697677,448.44452)"><g
          id="g194"
          transform="translate(225.75594,242.51706)"><g
            id="g196"><text
-             transform="translate(9,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text200"><tspan
-               x="0 7.4133329 15.493333 26.4 31.08 34.733334 42.666664 50.546665 58.48 62.133331 66.813332 73.746666 81.826668 94.786667 107.74667 115.74667 124.17333 132.48"
-               y="0"
-               sodipodi:role="line"
-               id="tspan198">Low level commands</tspan></text>
+   transform="translate(9,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text200"><tspan
+     x="0 7.4133329 15.493333 26.4 31.08 34.733334 42.666664 50.546665 58.48 62.133331 66.813332 73.746666 81.826668 94.786667 107.74667 115.74667 124.17333 132.48"
+     y="0"
+     sodipodi:role="line"
+     id="tspan198">Low level commands</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.0019685,0,0,-0.0019685,13.697677,448.44452)"
        id="g204"><g
@@ -272,13 +278,14 @@
          id="g214"
          transform="translate(45.304462,276.40582)"><g
            id="g216"><text
-             transform="translate(26.35733,23.534172)"
-             style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text220"><tspan
-               x="0 14.690666 26.487999 34.439999 40.991997 53.965332 65.221329 70.335999 78.810661 91.839996 105.80267 118.83199 125.384 130.49866 135.61333 147.24266 155.19466 166.39465 174.34666 185.37866 192.15466 198.70667 203.82132 215.13333 230.40266 236.95465 242.06932 253.17599 264.20798 275.31467"
-               y="0"
-               sodipodi:role="line"
-               id="tspan218">Our RPi-CNC library, low level</tspan></text>
+   transform="translate(26.35733,23.534172)"
+   style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text220"><tspan
+     x="0 14.690666 26.487999 34.439999 40.991997 53.965332 65.221329 70.335999 78.810661 91.839996 105.80267 118.83199 125.384 130.49866 135.61333 147.24266 155.19466 166.39465 174.34666 185.37866 192.15466 198.70667 203.82132 215.13333 230.40266 236.95465 242.06932 253.17599 264.20798 275.31467"
+     y="0"
+     sodipodi:role="line"
+     id="tspan218">Our RPi-CNC library, low level</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.0019685,0,0,-0.0019685,13.697677,448.44452)"
        id="g224"><g
@@ -296,21 +303,23 @@
          id="g234"
          transform="translate(45.304462,123.4462)"><g
            id="g236"><text
-             transform="translate(52.49704,21.227085)"
-             style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text240"><tspan
-               x="0 14.690666 26.487999 34.439999 40.991997 55.458664 69.103996 76.944 83.495995 91.970665 98.522667 116.96533 128.07199 139.70132 146.25333 151.368 163.16533 170.51999 181.62666 189.57866 196.13066 207.33066 217.03732"
-               y="0"
-               sodipodi:role="line"
-               id="tspan238">Our GUI / Web interface</tspan></text>
+   transform="translate(52.49704,21.227085)"
+   style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text240"><tspan
+     x="0 14.690666 26.487999 34.439999 40.991997 55.458664 69.103996 76.944 83.495995 91.970665 98.522667 116.96533 128.07199 139.70132 146.25333 151.368 163.16533 170.51999 181.62666 189.57866 196.13066 207.33066 217.03732"
+     sodipodi:role="line"
+     id="tspan238"
+     y="0">Our GUI / Web interface</tspan></text>
+
 <text
-             transform="translate(55.006706,43.227085)"
-             style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text244"><tspan
-               x="0 14.690666 22.045332 33.842667 44.949333 52.901333 59.453331 70.559998 81.591995 88.946663 100.05333 108.00533 119.80267 131.00266 136.11732 142.66933 152.37599 163.68799 170.23999 177.59467 192.864 204.064 212.01599"
-               y="0"
-               sodipodi:role="line"
-               id="tspan242">Other external software</tspan></text>
+   transform="translate(55.006706,43.227085)"
+   style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text244"><tspan
+     x="0 14.690666 22.045332 33.842667 44.949333 52.901333 59.453331 70.559998 81.591995 88.946663 100.05333 108.00533 119.80267 131.00266 136.11732 142.66933 152.37599 163.68799 170.23999 177.59467 192.864 204.064 212.01599"
+     y="0"
+     sodipodi:role="line"
+     id="tspan242">Other external software</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.0019685,0,0,-0.0019685,13.697677,448.44452)"
        id="g248"><g
@@ -333,13 +342,14 @@
          id="g270"
          transform="translate(225.75595,174.73753)"><g
            id="g272"><text
-             transform="translate(9,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text276"><tspan
-               x="0 8.2133331 16.213333 23.146666 31.026667 37.959999 42.799999 47.48 55.906666 59.559998 67.866669 76.293335 80.973328 84.626663 92.559998 100.43999 108.37333 112.02666 116.70667 123.64 131.64 135.29333 138.94667"
-               y="0"
-               sodipodi:role="line"
-               id="tspan274">Tasks, high level calls</tspan></text>
+   transform="translate(9,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text276"><tspan
+     x="0 8.2133331 16.213333 23.146666 31.026667 37.959999 42.799999 47.48 55.906666 59.559998 67.866669 76.293335 80.973328 84.626663 92.559998 100.43999 108.37333 112.02666 116.70667 123.64 131.64 135.29333 138.94667"
+     y="0"
+     sodipodi:role="line"
+     id="tspan274">Tasks, high level calls</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.0019685,0,0,-0.0019685,13.697677,448.44452)"
        id="g280"><g
@@ -357,13 +367,14 @@
          id="g290"
          transform="translate(45.304462,479.74216)"><g
            id="g292"><text
-             transform="translate(121.45138,23.534172)"
-             style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text296"><tspan
-               x="0 14.018666 25.218666 33.170666 44.799999 60.069332 71.269333 79.221329"
-               y="0"
-               sodipodi:role="line"
-               id="tspan294">Hardware</tspan></text>
+   transform="translate(121.45138,23.534172)"
+   style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text296"><tspan
+     x="0 14.018666 25.218666 33.170666 44.799999 60.069332 71.269333 79.221329"
+     y="0"
+     sodipodi:role="line"
+     id="tspan294">Hardware</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.0019685,0,0,-0.0019685,13.697677,448.44452)"
        id="g300"><g
@@ -394,13 +405,14 @@
          id="g322"
          transform="translate(225.75067,445.85565)"><g
            id="g324"><text
-             transform="translate(9,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text328"><tspan
-               x="0 9.3066664 17.386665 25.813334 31.066666 36.746666 44.826664 48.48 53.16 60.09333 63.746666 72.053329 80.479996 88.479996 92.133331"
-               y="0"
-               sodipodi:role="line"
-               id="tspan326">Control signals</tspan></text>
+   transform="translate(9,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text328"><tspan
+     x="0 9.3066664 17.386665 25.813334 31.066666 36.746666 44.826664 48.48 53.16 60.09333 63.746666 72.053329 80.479996 88.479996 92.133331"
+     y="0"
+     sodipodi:role="line"
+     id="tspan326">Control signals</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.0019685,0,0,-0.0019685,13.697677,448.44452)"
        id="g332"><g
@@ -487,65 +499,70 @@
          id="g402"
          transform="translate(-0.13424698,378.0761)"><g
            id="g404"><text
-             transform="translate(37.47325,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text408"><tspan
-               x="0 10.333333 18.373333 23.973333 34.466667 39.146667 44.826664 52.759998 60.759998 69.066666 76 80.839996 85.519997 91.119995 99.546661 104.8 112.73333 118.41333 124.09333 132.52 140.82666 146.08"
-               y="0"
-               sodipodi:role="line"
-               id="tspan406">GPIO reads, Interrupts</tspan></text>
+   transform="translate(37.47325,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text408"><tspan
+     x="0 10.333333 18.373333 23.973333 34.466667 39.146667 44.826664 52.759998 60.759998 69.066666 76 80.839996 85.519997 91.119995 99.546661 104.8 112.73333 118.41333 124.09333 132.52 140.82666 146.08"
+     y="0"
+     sodipodi:role="line"
+     id="tspan406">GPIO reads, Interrupts</tspan></text>
+
 </g></g></g><g
        id="g420"
        transform="matrix(0.7499985,0,0,-0.7499985,13.697677,448.44452)"><g
          id="g422"
          transform="translate(-0.13424698,310.2966)"><g
            id="g424"><text
-             transform="translate(74.50957,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text428"><tspan
-               x="0 8.04 16.119999 19.773333 23.426666 27.08 35.506664 43.813332 48.653332 53.333332 62.639999 70.639999 74.293335 77.946663 86.253334 94.253334 101.18666 109.06667"
-               y="0"
-               sodipodi:role="line"
-               id="tspan426">Polling, Callbacks</tspan></text>
+   transform="translate(74.50957,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text428"><tspan
+     x="0 8.04 16.119999 19.773333 23.426666 27.08 35.506664 43.813332 48.653332 53.333332 62.639999 70.639999 74.293335 77.946663 86.253334 94.253334 101.18666 109.06667"
+     y="0"
+     sodipodi:role="line"
+     id="tspan426">Polling, Callbacks</tspan></text>
+
 </g></g></g><g
        id="g440"
        transform="matrix(0.7499985,0,0,-0.7499985,13.697677,448.44452)"><g
          id="g442"
          transform="translate(-5.1102333,242.51706)"><g
            id="g444"><text
-             transform="translate(118.67636,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text448"><tspan
-               x="0 9.1066666 14.36 22.359999 27.613333 36.040001 42.973331 47.653332 54.586666 62.586666 66.239998 69.893333"
-               y="0"
-               sodipodi:role="line"
-               id="tspan446">Status calls</tspan></text>
+   transform="translate(118.67636,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text448"><tspan
+     x="0 9.1066666 14.36 22.359999 27.613333 36.040001 42.973331 47.653332 54.586666 62.586666 66.239998 69.893333"
+     y="0"
+     sodipodi:role="line"
+     id="tspan446">Status calls</tspan></text>
+
 </g></g></g><g
        id="g460"
        transform="matrix(0.7499985,0,0,-0.7499985,13.697677,448.44452)"><g
          id="g462"
          transform="translate(-5.1102314,174.73753)"><g
            id="g464"><text
-             transform="translate(124.76123,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text468"><tspan
-               x="0 9.2666664 17.199999 24.133333 32.439999 40.52 48.946667 55.879997 63.813332"
-               y="0"
-               sodipodi:role="line"
-               id="tspan466">Responses</tspan></text>
+   transform="translate(124.76123,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text468"><tspan
+     x="0 9.2666664 17.199999 24.133333 32.439999 40.52 48.946667 55.879997 63.813332"
+     y="0"
+     sodipodi:role="line"
+     id="tspan466">Responses</tspan></text>
+
 </g></g></g><g
        id="g480"
        transform="matrix(0.7499985,0,0,-0.7499985,13.697677,448.44452)"><g
          id="g482"
          transform="translate(-5.115487,445.85565)"><g
            id="g484"><text
-             transform="translate(101.93811,21.8)"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="text488"><tspan
-               x="0 9.1066666 14.36 22.359999 27.613333 36.040001 42.973331 47.653332 54.586666 58.239998 66.546661 74.973335 82.973328 86.626663"
-               y="0"
-               sodipodi:role="line"
-               id="tspan486">Status signals</tspan></text>
+   transform="translate(101.93811,21.8)"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   id="text488"><tspan
+     x="0 9.1066666 14.36 22.359999 27.613333 36.040001 42.973331 47.653332 54.586666 58.239998 66.546661 74.973335 82.973328 86.626663"
+     y="0"
+     sodipodi:role="line"
+     id="tspan486">Status signals</tspan></text>
+
 </g></g></g><g
        id="g1929"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -563,16 +580,17 @@
          transform="translate(45.304462,411.9644)"
          id="g1937"><g
            id="g1935"><text
-             id="text1933"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(18.047897,22.474173)"
-             x="147.20631"
-             y="0"><tspan
-               id="tspan1931"
-               sodipodi:role="line"
-               style="text-align:center;text-anchor:middle"
-               x="147.20631"
-               y="0">Периферия Raspberry Pi, DMA и GPIO</tspan></text>
+   id="text1933"
+   style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(18.047897,22.474173)"
+   x="147.20631"
+   y="0"><tspan
+     id="tspan1931"
+     sodipodi:role="line"
+     style="text-align:center;text-anchor:middle"
+     x="147.20631"
+     y="0">Периферия Raspberry Pi, DMA и GPIO</tspan></text>
+
 </g></g></g><g
        id="g1947"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -590,16 +608,17 @@
          transform="translate(45.304462,344.1851)"
          id="g1955"><g
            id="g1953"><text
-             id="text1951"
-             style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(63.454147,22.474173)"
-             x="101.60053"
-             y="0"><tspan
-               id="tspan1949"
-               sodipodi:role="line"
-               style="text-align:center;text-anchor:middle"
-               x="101.60053"
-               y="0">Библиотека PiGPIO (изменённая)</tspan></text>
+   id="text1951"
+   style="font-variant:normal;font-weight:normal;font-size:16px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(63.454147,22.474173)"
+   x="101.60053"
+   y="0"><tspan
+     id="tspan1949"
+     sodipodi:role="line"
+     style="text-align:center;text-anchor:middle"
+     x="101.60053"
+     y="0">Библиотека PiGPIO (изменённая)</tspan></text>
+
 </g></g></g><g
        id="g1965"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -612,21 +631,22 @@
          id="path1963"
          style="fill:none;stroke:#595959;stroke-width:381;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:8;stroke-dasharray:none;stroke-opacity:1"
          d="m 17261,79486.28 h 126972 v 12660 H 17261 Z" /></g><g
-       transform="matrix(0.7499985,0,0,-0.7499985,373.69769,448.44452)"
+       transform="matrix(0.7499985,0,0,-0.7499985,373.69769,449.34085)"
        id="g1975"><g
          transform="translate(45.304462,208.62543)"
          id="g1973"><g
            id="g1971"><text
-             id="text1969"
-             style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(22.034882,23.534172)"
-             x="143.16356"
-             y="0"><tspan
-               id="tspan1967"
-               sodipodi:role="line"
-               style="font-size:17.3333683px;text-align:center;text-anchor:middle"
-               x="143.16356"
-               y="0">Наша библиотека, высокий уровень</tspan></text>
+   id="text1969"
+   style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(22.034882,23.534172)"
+   x="143.16356"
+   y="0"><tspan
+     id="tspan1967"
+     sodipodi:role="line"
+     style="font-size:16.00003242px;line-height:1.25;text-align:center;text-anchor:middle"
+     x="143.16356"
+     y="0">Библиотека RPi-CNC, высокий уровень</tspan></text>
+
 </g></g></g><g
        id="g1987"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -681,49 +701,52 @@
          transform="translate(225.7559,378.0761)"
          id="g2019"><g
            id="g2017"><text
-             id="text2015"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(9,21.8)"><tspan
-               id="tspan2013"
-               sodipodi:role="line"
-               x="0"
-               y="0">DMA-блоки, запись в GPIO</tspan></text>
+   id="text2015"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(9,21.8)"><tspan
+     id="tspan2013"
+     sodipodi:role="line"
+     x="0"
+     y="0">DMA-блоки, запись в GPIO</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.7499985,0,0,-0.7499985,373.69769,448.44452)"
        id="g2031"><g
          transform="translate(225.75592,310.2966)"
          id="g2029"><g
            id="g2027"><text
-             id="text2025"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="9"
-             y="12.504207"><tspan
-               id="tspan2023"
-               sodipodi:role="line"
-               x="9"
-               y="12.504207">Вызов функций библиотеки,</tspan><tspan
-               sodipodi:role="line"
-               x="9"
-               y="29.170874"
-               id="tspan2273">передача вейвформ</tspan></text>
+   id="text2025"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   x="9"
+   y="12.504207"><tspan
+     id="tspan2023"
+     sodipodi:role="line"
+     x="9"
+     y="12.504207">Вызов функций библиотеки,</tspan><tspan
+     sodipodi:role="line"
+     x="9"
+     y="29.170874"
+     id="tspan2273">передача вейвформ</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.7499985,0,0,-0.7499985,373.69769,448.44452)"
        id="g2041"><g
          transform="translate(225.75594,242.51706)"
          id="g2039"><g
            id="g2037"><text
-             id="text2035"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="9"
-             y="11.659134"><tspan
-               id="tspan2033"
-               sodipodi:role="line"
-               x="9"
-               y="11.659134">Низкоуровневые команды</tspan><tspan
-               sodipodi:role="line"
-               x="9"
-               y="28.3258"
-               id="tspan2271">управления осями</tspan></text>
+   id="text2035"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   x="9"
+   y="11.659134"><tspan
+     id="tspan2033"
+     sodipodi:role="line"
+     x="9"
+     y="11.659134">Низкоуровневые команды</tspan><tspan
+     sodipodi:role="line"
+     x="9"
+     y="28.3258"
+     id="tspan2271">управления осями</tspan></text>
+
 </g></g></g><g
        id="g2049"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -741,15 +764,16 @@
          transform="translate(45.304462,276.40582)"
          id="g2057"><g
            id="g2055"><text
-             id="text2053"
-             style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="165.90288"
-             y="20.998955"><tspan
-               id="tspan2051"
-               sodipodi:role="line"
-               x="165.90288"
-               y="20.998955"
-               style="font-size:17.3333683px;text-align:center;text-anchor:middle">Наша библиотека, низкий уровень</tspan></text>
+   id="text2053"
+   style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   x="165.90288"
+   y="20.998955"><tspan
+     id="tspan2051"
+     sodipodi:role="line"
+     x="165.90288"
+     y="20.998955"
+     style="font-size:16.0000324px;text-align:center;text-anchor:middle">Библиотека RPiCNC, низкий уровень</tspan></text>
+
 </g></g></g><g
        id="g2067"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -764,21 +788,22 @@
          d="M 17261,47033 H 144233 V 66317 H 17261 Z" /></g><g
        transform="matrix(0.7499985,0,0,-0.7499985,373.69769,454.78255)"
        id="g2081"><text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:17.3333683px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000203"
-         x="211.64986"
-         y="151.72911"
-         id="text2265"><tspan
-           sodipodi:role="line"
-           id="tspan2263"
-           x="211.64986"
-           y="151.72911"
-           style="font-size:17.3333683px;text-align:center;text-anchor:middle;stroke-width:1.00000203">Наш графический / веб интерфейс</tspan><tspan
-           sodipodi:role="line"
-           x="211.64986"
-           y="173.39583"
-           style="font-size:17.3333683px;text-align:center;text-anchor:middle;stroke-width:1.00000203"
-           id="tspan2267">либо сторонее приложение</tspan></text>
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:17.3333683px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00000203"
+   x="211.64986"
+   y="151.72911"
+   id="text2265"><tspan
+     sodipodi:role="line"
+     id="tspan2263"
+     x="211.64986"
+     y="151.72911"
+     style="font-size:17.3333683px;text-align:center;text-anchor:middle;stroke-width:1.00000203">Графический / веб интерфейс</tspan><tspan
+     sodipodi:role="line"
+     x="211.64986"
+     y="173.39583"
+     style="font-size:17.3333683px;text-align:center;text-anchor:middle;stroke-width:1.00000203"
+     id="tspan2267">либо сторонее приложение</tspan></text>
+
 </g><g
        id="g2093"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -801,18 +826,19 @@
          transform="translate(225.75595,174.73753)"
          id="g2101"><g
            id="g2099"><text
-             id="text2097"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="9"
-             y="11.659134"><tspan
-               id="tspan2095"
-               sodipodi:role="line"
-               x="9"
-               y="11.659134">Задания, </tspan><tspan
-               sodipodi:role="line"
-               x="9"
-               y="28.3258"
-               id="tspan2269">высокоуровневые вызовы</tspan></text>
+   id="text2097"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   x="9"
+   y="11.659134"><tspan
+     id="tspan2095"
+     sodipodi:role="line"
+     x="9"
+     y="11.659134">Задания, </tspan><tspan
+     sodipodi:role="line"
+     x="9"
+     y="28.3258"
+     id="tspan2269">высокоуровневые вызовы</tspan></text>
+
 </g></g></g><g
        id="g2111"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -830,16 +856,17 @@
          transform="translate(45.304462,479.74216)"
          id="g2119"><g
            id="g2117"><text
-             id="text2115"
-             style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(121.45138,23.534172)"
-             x="43.803371"
-             y="0"><tspan
-               id="tspan2113"
-               sodipodi:role="line"
-               style="text-align:center;text-anchor:middle"
-               x="43.803375"
-               y="0">Оборудование</tspan></text>
+   id="text2115"
+   style="font-variant:normal;font-weight:normal;font-size:18.66666603px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(121.45138,23.534172)"
+   x="43.803371"
+   y="0"><tspan
+     id="tspan2113"
+     sodipodi:role="line"
+     style="text-align:center;text-anchor:middle"
+     x="43.803375"
+     y="0">Оборудование</tspan></text>
+
 </g></g></g><g
        id="g2133"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -870,13 +897,14 @@
          transform="translate(225.75067,445.85565)"
          id="g2149"><g
            id="g2147"><text
-             id="text2145"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(9,21.8)"><tspan
-               id="tspan2143"
-               sodipodi:role="line"
-               x="0"
-               y="0">Управляющие сигналы</tspan></text>
+   id="text2145"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(9,21.8)"><tspan
+     id="tspan2143"
+     sodipodi:role="line"
+     x="0"
+     y="0">Управляющие сигналы</tspan></text>
+
 </g></g></g><g
        id="g2163"
        transform="matrix(0.0019685,0,0,-0.0019685,373.69769,448.44452)"><g
@@ -963,81 +991,86 @@
          transform="translate(-0.13424698,378.0761)"
          id="g2219"><g
            id="g2217"><text
-             id="text2215"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(37.47325,21.8)"
-             x="151.73105"
-             y="0"><tspan
-               id="tspan2213"
-               sodipodi:role="line"
-               style="text-align:end;text-anchor:end"
-               x="151.73103"
-               y="0">Прерывания, чтение GPIO</tspan></text>
+   id="text2215"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(37.47325,21.8)"
+   x="151.73105"
+   y="0"><tspan
+     id="tspan2213"
+     sodipodi:role="line"
+     style="text-align:end;text-anchor:end"
+     x="151.73103"
+     y="0">Прерывания, чтение GPIO</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.7499985,0,0,-0.7499985,373.69769,448.44452)"
        id="g2231"><g
          transform="translate(-0.13424698,310.2966)"
          id="g2229"><g
            id="g2227"><text
-             id="text2225"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             x="188.6739"
-             y="11.659134"><tspan
-               sodipodi:role="line"
-               style="text-align:end;text-anchor:end"
-               x="188.6739"
-               y="11.659134"
-               id="tspan2277">Опрашивание,</tspan><tspan
-               sodipodi:role="line"
-               style="text-align:end;text-anchor:end"
-               x="188.6739"
-               y="28.3258"
-               id="tspan2281">обратные вызовы</tspan></text>
+   id="text2225"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   x="188.6739"
+   y="11.659134"><tspan
+     sodipodi:role="line"
+     style="text-align:end;text-anchor:end"
+     x="188.6739"
+     y="11.659134"
+     id="tspan2277">Опрашивание,</tspan><tspan
+     sodipodi:role="line"
+     style="text-align:end;text-anchor:end"
+     x="188.6739"
+     y="28.3258"
+     id="tspan2281">обратные вызовы</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.7499985,0,0,-0.7499985,373.69769,448.44452)"
        id="g2241"><g
          transform="translate(-5.1102333,242.51706)"
          id="g2239"><g
            id="g2237"><text
-             id="text2235"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(118.67636,21.8)"
-             x="75.420677"
-             y="0"><tspan
-               id="tspan2233"
-               sodipodi:role="line"
-               x="75.420677"
-               y="0">Статусные вызовы</tspan></text>
+   id="text2235"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(118.67636,21.8)"
+   x="75.420677"
+   y="0"><tspan
+     id="tspan2233"
+     sodipodi:role="line"
+     x="75.420677"
+     y="0">Статусные вызовы</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.7499985,0,0,-0.7499985,373.69769,448.44452)"
        id="g2251"><g
          transform="translate(-5.1102314,174.73753)"
          id="g2249"><g
            id="g2247"><text
-             id="text2245"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(124.76123,21.8)"
-             x="68.910988"
-             y="0"><tspan
-               id="tspan2243"
-               sodipodi:role="line"
-               style="text-align:end;text-anchor:end"
-               x="68.910988"
-               y="0">Ответы</tspan></text>
+   id="text2245"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(124.76123,21.8)"
+   x="68.910988"
+   y="0"><tspan
+     id="tspan2243"
+     sodipodi:role="line"
+     style="text-align:end;text-anchor:end"
+     x="68.910988"
+     y="0">Ответы</tspan></text>
+
 </g></g></g><g
        transform="matrix(0.7499985,0,0,-0.7499985,373.69769,448.44452)"
        id="g2261"><g
          transform="translate(-5.115487,445.85565)"
          id="g2259"><g
            id="g2257"><text
-             id="text2255"
-             style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             transform="translate(101.93811,21.8)"
-             x="92.154007"
-             y="0"><tspan
-               id="tspan2253"
-               sodipodi:role="line"
-               style="text-align:end;text-anchor:end"
-               x="92.154007"
-               y="0">Статусные сигналы</tspan></text>
+   id="text2255"
+   style="font-variant:normal;font-weight:normal;font-size:13.33333302px;font-family:Verdana;-inkscape-font-specification:Verdana;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+   transform="translate(101.93811,21.8)"
+   x="92.154007"
+   y="0"><tspan
+     id="tspan2253"
+     sodipodi:role="line"
+     style="text-align:end;text-anchor:end"
+     x="92.154007"
+     y="0">Статусные сигналы</tspan></text>
+
 </g></g></g></g></svg>
